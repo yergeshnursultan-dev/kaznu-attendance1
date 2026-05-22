@@ -9,8 +9,7 @@ backend/*.db
 # AI модельдері (үлкен файлдар — INSTALL.bat жүктейді)
 backend/*.onnx
 
-# Студент суреттері (жеке)
-backend/faces/
+# backend/faces/ суреттері қосылды
 
 # Frontend build
 frontend/node_modules/
