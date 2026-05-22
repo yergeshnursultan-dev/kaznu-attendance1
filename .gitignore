@@ -3,8 +3,8 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Database (жеке деректер)
-backend/*.db
+# Database
+# backend/*.db
 
 # AI модельдері (үлкен файлдар — INSTALL.bat жүктейді)
 backend/*.onnx
